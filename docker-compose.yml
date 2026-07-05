@@ -1,0 +1,23 @@
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    restart: always
+    networks:
+      - netwatch-net
+  netwatch:
+    build: .
+    container_name: netwatch
+    restart: always
+    networks:
+      - netwatch-net
+    ports:
+      - "8503:8503"
+      - "8504:8504"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+    depends_on:
+      - mongo
+networks:
+  netwatch-net:
+    driver: bridge

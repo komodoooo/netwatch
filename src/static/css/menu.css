@@ -1,0 +1,16 @@
+div.stButton > button {
+    width: 250px !important;
+    display: block;
+    margin: 10px auto;
+}
+h1 {
+    /*text-align: center;*/
+    display: inline-block;
+    width: 265px;
+    margin: 0 auto;
+}
+hr {
+    border: none;
+    height: 2px;
+    width: 250px;
+}

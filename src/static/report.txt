@@ -1,0 +1,7 @@
+You have to write a security report about this data.
+Describe possibile security issues such as vulnerabilities or misconfigurations IF THERE ARE ANY and how a threat actor could use these to exploit and damage the system.
+Also describe how to mitigate potential problems, suggest implementing security best practices, and what to do if necessary.
+DO NOT COMMENT ANYTHING THAT IS NOT ACTUALLY THERE, such as failed scripts due only to absence of something, tools used or the type of data.
+DO NOT WRITE IMPROPER SCENARIOS: if there isn't really something you can't do, maybe due to lack of data, just say that it's ok
+DO NOT INVENT ANYTHING ON YOUR OWN, just base yourself on the data i will give you now. 
+Use pure markdown and no unicode. Here's the data:

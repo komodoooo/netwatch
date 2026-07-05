@@ -1,0 +1,17 @@
+broadcast-*
+dns-nsec-enum
+dns-nsec3-enum
+dns-client-subnet-scan
+dns-update
+http-enum
+http-vuln-cve*
+http-wordpress-enum
+http-drupal-enum
+http-slowloris-check
+http-domino-enum-passwords
+http-backup-finder
+http-config-backup
+http-google-malware
+http-aspnet-debug
+dns-nsec-enum
+dns-nsec3-enum

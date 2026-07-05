@@ -1,0 +1,6 @@
+div.stButton > button {
+    width: 150px !important;
+    display: block;
+    text-align: left;
+    margin: 10px;
+}

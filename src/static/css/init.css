@@ -1,0 +1,12 @@
+[data-testid="stDecoration"] {
+    background: #aecbd3;
+}
+[data-testid="InputInstructions"] { 
+    display: none;
+}
+[data-testid='stHeaderActionElements'] {
+    display: none;
+}
+[data-testid="stStatusWidget"] {
+    display: none;
+}

@@ -1,0 +1,12 @@
+motor
+bcrypt
+pymongo
+fastapi
+uvicorn
+requests
+streamlit==1.46.0
+python-nmap
+markdown-pdf
+toon-encoder
+streamlit-autorefresh
+streamlit-nested-layout
